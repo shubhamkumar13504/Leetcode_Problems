@@ -1,5 +1,5 @@
 # l1=[2,7,11,15] 
-# target=9
+# target=9 # let suppose
 # THESE ARE MY MISTAKES THAT I HAVE DONE IN THIS
 # def func(l1,target):
 #     for i,num in enumerate(l1):
