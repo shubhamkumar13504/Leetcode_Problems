@@ -1,4 +1,4 @@
-# l1=[2,7,11,15]
+# l1=[2,7,11,15] 
 # target=9
 # THESE ARE MY MISTAKES THAT I HAVE DONE IN THIS
 # def func(l1,target):
